@@ -1,0 +1,1 @@
+{"success":true,"data":{"notifications":[],"view_url":"http:\/\/localhost:10008\/wp-admin\/admin.php?page=monsterinsights_reports"}}
